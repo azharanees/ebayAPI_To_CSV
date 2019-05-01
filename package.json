@@ -26,6 +26,7 @@
   "homepage": "https://github.com/azharanees/ebayAPI_To_CSV#readme",
   "dependencies": {
     "ebay-node-api": "^2.5.5",
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "json-2-csv": "^3.5.3"
   }
 }
