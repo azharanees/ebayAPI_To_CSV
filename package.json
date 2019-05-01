@@ -1,0 +1,31 @@
+{
+  "name": "dataset-collector",
+  "version": "1.0.0",
+  "description": "Collects data set from ebay api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azharanees/ebayAPI_To_CSV.git"
+  },
+  "keywords": [
+    "ebay",
+    "API",
+    "CSV",
+    "Node",
+    "Scraping",
+    "Dataset"
+  ],
+  "author": "Azhar Ahamed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azharanees/ebayAPI_To_CSV/issues"
+  },
+  "homepage": "https://github.com/azharanees/ebayAPI_To_CSV#readme",
+  "dependencies": {
+    "ebay-node-api": "^2.5.5",
+    "express": "^4.16.4"
+  }
+}
